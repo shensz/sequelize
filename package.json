@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "sequelize-ssz",
   "description": "Multi dialect ORM for Node.JS/io.js",
   "version": "3.17.0",
   "author": "Sascha Depold <sascha@depold.com>",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/shensz/sequelize.git"
   },
   "bugs": {
     "url": "https://github.com/sequelize/sequelize/issues"
